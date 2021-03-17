@@ -1,14 +1,14 @@
 const siteConfig = {
-  title: 'Morrys Repositories',
-  tagline: 'Collection of libraries usable for the web, react and react-native.',
-  url: 'https://morrys.github.io',
+  title: 'GitPaint',
+  tagline: ' ',
+  url: 'https://gitpaint.github.io',
   baseUrl: '/gitpaint/',
   projectName: 'gitpaint',
   organizationName: 'morrys',
   headerLinks: [
     { doc: 'gitpaint', label: 'Docs' },
     {
-      href: 'https://github.com/morrys/gitpaint',
+      href: 'https://github.com/gitpaint/gitpaint',
       label: 'GitHub',
     },
     { languages: false },
@@ -53,7 +53,7 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  repoUrl: 'https://github.com/morrys/gitpaint',
+  repoUrl: 'https://github.com/gitpaint/gitpaint',
 };
 
 module.exports = siteConfig;
