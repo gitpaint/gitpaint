@@ -2,7 +2,7 @@ const siteConfig = {
   title: 'GitPaint',
   tagline: ' ',
   url: 'https://gitpaint.github.io',
-  baseUrl: '/gitpaint/',
+  baseUrl: '/',
   projectName: 'gitpaint',
   organizationName: 'morrys',
   headerLinks: [
